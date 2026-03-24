@@ -1,0 +1,34 @@
+# Software Testing Report
+
+## 📌 Project Overview
+This report summarizes the manual testing activities performed as part of my Software Quality Assurance (SQA) practice. The testing focused on academic projects including Hostel Management System, Pharmacy Management System, and Salary Management System.
+
+## 🧪 Testing Type
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Bug Reporting
+
+## 📋 Test Coverage
+- Login functionality
+- Data input validation
+- CRUD operations
+- Basic UI behavior
+
+## 📊 Test Cases
+- Total Test Cases: 120+
+- Each test case includes: Test Case ID, Title, Steps, and Expected Result
+
+## 🐞 Bug Reporting
+- Bugs were identified, documented, and categorized by severity and priority
+- Example: Login button not responding, invalid input handling, calculation errors
+
+## 🛠️ Tools Used
+- MS Excel (Test Case Documentation)
+- Manual Testing Techniques
+- Chrome DevTools
+
+## ✅ Conclusion
+This testing portfolio demonstrates practical knowledge in designing, executing, and documenting manual test cases, as well as basic automation with Selenium. It highlights the ability to ensure software quality through structured testing processes.
+
+**Author:** Muhammad Hassan
